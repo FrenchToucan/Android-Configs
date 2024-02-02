@@ -1,6 +1,8 @@
-# Android-Configs
-
 **Mountain Flower**
-Lawnchair 14 backup
-Telegram theme (for dark mode)
-![hippo](https://imgur.com/gallery/BAX73jl)
+
+
+
+* Lawnchair 14 theme
+* Telegram theme (for dark mode)
+
+<video src="https://github.com/FrenchToucan/Android-Configs/blob/main/Mountain%20Flower/Mountain%20Flower%20preview.mp4" width="300" />
