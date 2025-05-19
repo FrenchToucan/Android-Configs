@@ -39,3 +39,64 @@
 - Replace "Report" in flyout menu: <strong>Disabled</strong>
 
 </details>
+<details>
+<summary><strong>YouTube Revanced Extended Settings</strong></summary>
+
+- Append time stamp information type: **Disabled**
+- Default video quality (mobile): **720p**
+- Default video quality (WiFi): **1080p**
+- Disable default playback speed for music: **Enabled**
+- Disable like/dislike glow: **Enabled**
+- Disable speed overlay: **Enabled**
+- Disable swipe to enter fullscreen mode below the player: **Enabled**
+- Enable swipe brightness: **Disabled**
+- Enable swipe lowest value auto brightness: **Disabled**
+- Enable swipe speed: **Disabled**
+- Enable swipe volume: **Disabled**
+- Enable translucent navigation bar: **Enabled**
+- Enable wide search bar: **Enabled**
+- External downloader package name (video): **com.junkfood.seal**
+- Hide carousel shelf: **Enabled**
+- Hide category bar in feed: **Enabled**
+- Hide category bar in related videos: **Enabled**
+- Hide category bar in search: **Enabled**
+- Hide clip button: **Enabled**
+- Hide community posts in subscriptions: **Enabled**
+- Hide feed captions button: **Enabled**
+- Hide floating button: **Enabled**
+- Hide fullscreen ads: **Enabled**
+- Hide mix playlists: **Enabled**
+- Hide movie shelf: **Enabled**
+- Hide navigation label: **Enabled**
+- Hide navigation notifications button: **Enabled**
+- Hide navigation shorts button: **Enabled**
+- Hide notify me button: **Enabled**
+- Hide playables: **Enabled**
+- Hide player captions button: **Enabled**
+- Hide player collapse button: **Enabled**
+- Hide player flyout menu captions: **Enabled**
+- Hide player flyout menu loop video: **Enabled**
+- Hide player flyout menu playback speed: **Enabled**
+- Hide player flyout menu stats for nerds: **Enabled**
+- Hide podcast section: **Enabled**
+- Hide remix button: **Enabled**
+- Hide rewards button: **Enabled**
+- Hide search term thumbnail: **Enabled**
+- Hide shop button: **Enabled**
+- Hide snack bar: **Enabled**
+- Hide subscriptions carousel: **Enabled**
+- Hide thanks button: **Enabled**
+- Hide toolbar create button: **Enabled**
+- Hide toolbar notification button: **Enabled**
+- Hide voice search button: **Enabled**
+- Hide YouTube doodles: **Enabled**
+- Overlay button external downloader: **Enabled**
+- Override video download button: **Enabled**
+- Remember last selected playback speed: **Disabled**
+- RYD (Return YouTube Dislike) toast on connection error: **Disabled**
+- RYD user ID: **9TGmz9sAE7BpnKAMfiNgKQkB6lF33EF78adm**
+- SponsorBlock local time saved (milliseconds): **37577711**
+- SponsorBlock local time saved (number segments): **1529**
+- SponsorBlock toast on connection error: **Disabled**
+
+</details>
